@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef374fd3-c58c-48b4-abab-9b528efdda14" name="Default" comment="" />
+    <ignored path="Wiki.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Wiki" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Front.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/Front.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="0" selection-start="437" selection-end="437" vertical-scroll-proportion="12.222222" vertical-offset="834" max-vertical-offset="1314">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="13" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="828">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/edit.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="81" selection-start="446" selection-end="446" vertical-scroll-proportion="-16.851852" vertical-offset="85" max-vertical-offset="810">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pagere.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/pagere.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="47" selection-start="855" selection-end="855" vertical-scroll-proportion="-4.3703704" vertical-offset="728" max-vertical-offset="1170">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wiki.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/wiki.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="82" column="81" selection-start="2280" selection-end="2280" vertical-scroll-proportion="-1.4710526" vertical-offset="1891" max-vertical-offset="2574">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="history.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/history.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="18" selection-start="325" selection-end="325" vertical-scroll-proportion="-6.259259" vertical-offset="119" max-vertical-offset="594">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginHandler.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/LoginHandler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="63" selection-start="182" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogoutHandler.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/LogoutHandler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="24" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="288">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WikiHandler.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/WikiHandler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="0" selection-start="1444" selection-end="1444" vertical-scroll-proportion="0.0" vertical-offset="718" max-vertical-offset="1098">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.yaml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="11" selection-start="201" selection-end="201" vertical-scroll-proportion="-8.44" vertical-offset="41" max-vertical-offset="396">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/app.yaml" />
+        <option value="$PROJECT_DIR$/app/templates/signup.html" />
+        <option value="$PROJECT_DIR$/app/templates/login.html" />
+        <option value="$PROJECT_DIR$/app/static/EditHandler.py" />
+        <option value="$PROJECT_DIR$/app/static/User.py" />
+        <option value="$PROJECT_DIR$/app/static/WikiHandler.py" />
+        <option value="$PROJECT_DIR$/app/static/LogoutHandler.py" />
+        <option value="$PROJECT_DIR$/app/static/LoginHandler.py" />
+        <option value="$PROJECT_DIR$/app/static/SignupHandler.py" />
+        <option value="$PROJECT_DIR$/app/static/HistoryPage.py" />
+        <option value="$PROJECT_DIR$/app/templates/edit.html" />
+        <option value="$PROJECT_DIR$/app/templates/Front.html" />
+        <option value="$PROJECT_DIR$/app/templates/pagere.html" />
+        <option value="$PROJECT_DIR$/app/wiki.py" />
+        <option value="$PROJECT_DIR$/app/templates/history.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Myblog" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/static" />
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.wiki">
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Wiki" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Wiki" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Wiki" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Wiki" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Wiki" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Wiki" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="wiki" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Wiki" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/google_appengine/dev_appserver.py" />
+      <option name="PARAMETERS" value="." />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.wiki" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef374fd3-c58c-48b4-abab-9b528efdda14" name="Default" comment="" />
+      <created>1400511135986</created>
+      <updated>1400511135986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24960877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1799687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30555555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/static/SignupHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="18" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="23" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="252" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="27" selection-start="1433" selection-end="1454" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="828" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/WikiHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="1333" selection-end="1438" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="1188">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="11" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="59" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="738" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/Front.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="22" selection-start="118" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wiki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="17" selection-start="790" selection-end="790" vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="1278">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/SignupHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="38" selection-start="1228" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="656" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="23" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="252" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="27" selection-start="1433" selection-end="1454" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="828" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/WikiHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="12" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="1188">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="11" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="17" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/LoginHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="263" max-vertical-offset="594">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/Front.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="22" selection-start="118" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/SignupHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="0" selection-start="2610" selection-end="2610" vertical-scroll-proportion="0.0" vertical-offset="1494" max-vertical-offset="1602">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="252" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="27" selection-start="1433" selection-end="1454" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="828" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/WikiHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1443" selection-end="1443" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1188">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="11" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="25" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="666" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wiki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="774">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/LoginHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="32" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="522">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/SignupHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="32" selection-start="2605" selection-end="2605" vertical-scroll-proportion="0.0" vertical-offset="1325" max-vertical-offset="1656">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/Front.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="34" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="276" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="91" selection-start="195" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="1065" max-vertical-offset="1476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="828" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/WikiHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="11" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wiki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="35" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="11" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/google_appengine/lib/jinja2-2.6/jinja2/loaders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="6816" selection-end="6816" vertical-scroll-proportion="0.0" vertical-offset="3040" max-vertical-offset="8136" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/google_appengine/lib/webapp2-2.5.2/webapp2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="569" column="0" selection-start="19382" selection-end="19382" vertical-scroll-proportion="0.3323263" vertical-offset="9862" max-vertical-offset="35586" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env/local/lib/python2.7/site-packages/google/appengine/ext/db/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1207" column="25" selection-start="36826" selection-end="36826" vertical-scroll-proportion="0.16867469" vertical-offset="21418" max-vertical-offset="71676" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="27" selection-start="1433" selection-end="1454" vertical-scroll-proportion="-39.555557" vertical-offset="192" max-vertical-offset="1476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="44" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/LogoutHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="24" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/SignupHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="55" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1602">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/LoginHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="63" selection-start="182" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="594">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="11" selection-start="201" selection-end="201" vertical-scroll-proportion="-8.44" vertical-offset="41" max-vertical-offset="396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/WikiHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1444" selection-end="1444" vertical-scroll-proportion="0.0" vertical-offset="579" max-vertical-offset="1098">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="81" selection-start="446" selection-end="446" vertical-scroll-proportion="-16.851852" vertical-offset="85" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/pagere.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="47" selection-start="855" selection-end="855" vertical-scroll-proportion="-4.3703704" vertical-offset="728" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/Front.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="437" selection-end="437" vertical-scroll-proportion="12.222222" vertical-offset="834" max-vertical-offset="1314">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/history.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="18" selection-start="325" selection-end="325" vertical-scroll-proportion="-6.259259" vertical-offset="119" max-vertical-offset="594">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wiki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="81" selection-start="2280" selection-end="2280" vertical-scroll-proportion="-1.4710526" vertical-offset="1891" max-vertical-offset="2574">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

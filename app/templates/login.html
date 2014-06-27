@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+</head>
+<body>
+<center><div style="width:500px;height:250px;border:5px solid #000;position:center;top:105px;">
+    <h1>Login</h1>
+<form method="post">
+      <table>
+        <tr>
+          <td class="label">
+            Username
+          </td>
+          <td>
+            <input type="text" name="username" value="{{username}}">
+          </td>
+
+        </tr>
+
+        <tr>
+          <td class="label">
+            Password
+          </td>
+          <td>
+            <input type="password" name="password" value="{{password}}" >
+          </td>
+          <td class="error">
+            {{error}}
+          </td>
+
+          </td>
+        </tr>
+          </table>
+    <input type="submit">
+    </form>
+    </div>
+</center>
+</body>
+
+</html>

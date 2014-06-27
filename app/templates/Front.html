@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wiki</title>
+    <center><h1>Wiki</h1></center>
+    <hr>
+</head>
+<style type="text/css">
+        h{
+        position:absolute;
+        right:10;
+        top:0;
+        }
+
+        hr {
+        right:0;
+
+        margin:20px auto;
+        }
+
+        body
+        {
+        position:absolute;
+        font:family:sans-serif;
+        width:800px;
+        margin:0 auto;
+        padding:10px
+        }
+
+        .link{
+        position:absolute;
+        top:10;
+        right:0;
+        }
+
+        .link2{
+        position:absolute;
+        top:10;
+        left:10;
+        }
+
+</style>
+
+<center>
+<body>
+    <div class="link" >  </div>
+    {% if valid_login %}
+    <a class="link" href="/logout">({{valid_login}}) logout</a>
+    {% else %}
+    <div class="link"><a  href="/login">Login</a>&nbsp;&nbsp;&nbsp;<a  href="/signup">Signup</a></div>
+
+    {% endif %}
+    <div class="link2"><a href="/_edit/">Edit</a>&nbsp;<a href="/_history">History</a></div>
+
+
+
+    <div class="content">
+
+        <pre class="content-body">{{contents.content}}</pre>
+
+    </div>
+
+
+
+
+</body>
+    </center>
+</html>

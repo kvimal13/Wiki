@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+
+
+{% block content %}
+{% for p in posts %}
+<br><tr>
+    <td>
+
+        {{p.last_modified.strftime("%c")}}&nbsp;&nbsp;&nbsp;&nbsp;{{p.content}}
+        {% if valid_login %}
+<a class="link" href="/_edit/{{path}}?v={{posts.index(p)+1}}">edit</a>
+        {% else %}
+        <a class="link2" href="/login"></a>
+{% endif %}
+<a class="link" href="/{{path}}?v={{posts.index(p)+1}}">view</a>
+    </td>
+    <br>
+
+</tr>
+{% endfor %}
+{% endblock %}
+</body>
+</html>

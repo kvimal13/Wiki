@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<style type="text/css">
+        h{
+        position:absolute;
+        right:10;
+        top:0;
+        }
+
+        hr {
+        margin:20px auto;
+        }
+
+        body
+        {
+        position:absolute;
+        font:family:sans-serif;
+        width:800px;
+        margin:0 auto;
+        padding:10px
+        }
+
+        .link{
+        position:absolute;
+        top:10;
+        right:0;
+        }
+
+        .link2{
+        position:absolute;
+        top:10;
+        left:0;
+        }
+
+
+</style>
+<body>
+<div class="link" >  </div>
+    {% if valid_login %}
+    {{user_name}}<a class="link" href="/logout">logout</a>
+    {% else %}
+    <div class="link"><a  href="/login">Login</a>&nbsp;&nbsp;&nbsp;<a  href="/signup">Signup</a></div>
+
+    {% endif %}
+    <div class="link2"><a href="/_edit/{{path}}">Edit</a> &nbsp;&nbsp;&nbsp;<a href="/_history/{{path}}">History</a></div>
+
+<br>
+<center>
+<div class="content">
+
+        <pre class="content-body">{{contents.content}}</pre>
+
+    </div>
+</center>
+
+</body>
+</html>
